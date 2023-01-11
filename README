@@ -1,0 +1,11 @@
+# Welcome to Machine aa:bb:cc:dd:ee:02
+1. Login & Password
+zynqmp login: ubuntu
+Password: qazWSX123!@#
+
+2. After Logging in, become root user
+sudo su
+<Enter the Password in Step 1. again when prompted>
+
+3. Execute post_boot.sh
+source post_boot.sh

@@ -1,0 +1,3 @@
+#!/bin/sh
+source post_boot.sh
+source ixia_setup.sh
